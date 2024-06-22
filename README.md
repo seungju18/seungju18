@@ -1,6 +1,6 @@
 ## 🧑‍💻 소개
 - 🏫 서울시립대학교 컴퓨터과학부 재학
-- 🌱 React 개발
+- 🌱 React 개발 , Next 개발
 - ☁️ Frontend 개발자
 - 📫 이메일: [![Gmail Badge](https://img.shields.io/badge/lsj001018-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsj001018@gmail.com)](mailto:lsj001018@gmail.com)
 
